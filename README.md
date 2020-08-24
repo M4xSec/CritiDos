@@ -1,5 +1,5 @@
 <h2 align="center">💀 Critical DoS + DDoS T00l 💀</h2>
-(https://user-images.githubusercontent.com/57313495/91025009-60726480-e616-11ea-8023-84c62b93a862.png)
+[![Known Vulnerabilities](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json)](https://snyk.io/test/github/dwyl/hapi-auth-jwt2?targetFile=package.json)
 <p align="center">
   <b> Follow on Social Media Platforms </b>
 </p>
