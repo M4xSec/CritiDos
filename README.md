@@ -14,7 +14,7 @@
 
 # INSTALLATION [ TERMUX APP --ANDROID ]🔥
 * git clone https://github.com/khacker1024/CritiDos/
-* <h4>cd critidos</h4>
+* cd critidos
 * cd build
 * chmod 777 python critidos.py
 * python critidos.py
