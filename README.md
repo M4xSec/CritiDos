@@ -1,5 +1,4 @@
-<h2 align="center">💀 Critical DoS + DDoS T00l 💀</h2>
-<a href="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows%2FmacOS-brightgreengreen.svg" style="max-width:100%;"></a>
+<h1 align="center">💀 Critical DoS + DDoS T00l 💀</h1>
 <p align="center">
   <b> Follow on Social Media Platforms </b>
 </p>
