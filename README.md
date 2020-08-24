@@ -15,7 +15,7 @@
 
 # INSTALLATION [ TERMUX APP --ANDROID ]🔥
 * git clone https://github.com/khacker1024/CritiDos/
-* <h1>cd critidos</h1>
+* <h5>cd critidos</h5>
 * cd build
 * chmod 777 python critidos.py
 * python critidos.py
@@ -32,7 +32,7 @@
 *ADVANCE:
 *        python criticaldos.py <target_url> --autoshut
 
-# TESTED ON FOLLOWING:👌🏻👌🏻-
+# TESTED ON FOLLOWING:👌🏻-
 * Kali Linux - 2020.1a (version)👍🏻
 * Parrot OS - Rolling Edition (version)
 * Ubuntu 
