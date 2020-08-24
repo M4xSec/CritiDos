@@ -1,4 +1,4 @@
-<center><h2>💀 Critical DoS + DDoS T00l 💀</h2></center>
+<h2 align="center">💀 Critical DoS + DDoS T00l 💀</h2>
 <p align="center">
   <b> Follow on Social Media Platforms </b>
 </p>
