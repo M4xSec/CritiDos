@@ -28,7 +28,7 @@
 
 # Usage 🙋🏻‍♀️
 *        python criticaldos.py <target_url>
-*ADVANCE:
+* ADVANCE:
 *        python criticaldos.py <target_url> --autoshut
 
 # TESTED ON FOLLOWING:👌🏻-
