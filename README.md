@@ -1,4 +1,5 @@
 <h2 align="center">💀 Critical DoS + DDoS T00l 💀</h2>
+<a href="https://github.com/Moham3dRiahi/Th3inspector"><img src="https://img.shields.io/badge/Th3inspector-1.9-brightgreen.svg" alt="Version" data-canonical-src="https://img.shields.io/badge/Th3inspector-1.9-brightgreen.svg?maxAge=259200" style="max-width:100%;"></a>
 <p align="center">
   <b> Follow on Social Media Platforms </b>
 </p>
