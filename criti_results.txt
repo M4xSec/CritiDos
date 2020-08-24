@@ -1,0 +1,5 @@
+Host Machine information & the target details:
+Host Name: khacker
+Host ip: 127.0.1.1
+Target_URL: www.eicherschool.net
+-------------------------------------------------------<<
