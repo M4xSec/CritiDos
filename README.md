@@ -12,17 +12,19 @@
 ![Screenshot from 2020-08-24 02-01-54](https://user-images.githubusercontent.com/57313495/91021871-ffe12880-e611-11ea-8814-0c900a716f59.png)
 
 
-# INSTALLATION [ TERMUX APP --ANDROID ]🔥
+# INSTALLATION [ TERMUX APP --ANDROID Only Pro v ]🔥
 * git clone https://github.com/khacker1024/CritiDos/
-* cd critidos
+* cd CritiDos
+* bash installcriti.sh
 * cd build
 * chmod 777 python critidos.py
 * python critidos.py
 
 # INSTALLATION [ KALI ]🔥🔥🔥
 * git clone https://github.com/khacker1024/CritiDos/
-* cd critidos
+* cd CritiDos
 * cd build
+* bash installcriti.sh
 * chmod 777 python critidos.py
 * python critidos.py
 
