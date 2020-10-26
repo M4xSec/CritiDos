@@ -13,7 +13,7 @@
 
 
 # INSTALLATION [ TERMUX APP --ANDROID Only Pro v ]🔥
-* git clone https://github.com/khacker1024/CritiDos/
+* git clone https://github.com/predator0x300/CritiDos/
 * cd CritiDos
 * bash installcriti.sh
 * cd build
@@ -21,7 +21,7 @@
 * python critidos.py
 
 # INSTALLATION [ KALI ]🔥🔥🔥
-* git clone https://github.com/khacker1024/CritiDos/
+* git clone https://github.com/predator0x300/CritiDos/
 * cd CritiDos
 * cd build
 * bash installcriti.sh
@@ -45,7 +45,7 @@
 
 # Contact For Contribute & Issues 📲
 
-                                      EMAIL FOR ISSUES AND CONTRIBUTE : kamaldeepsingh9821@gmail.com
+                                      EMAIL FOR ISSUES AND CONTRIBUTE : predator0x300@gmail.com
 
 # DISCLAIMER 💡💡💡
                                        TO BE USED FOR EDUCATIONAL PURPOSES ONLY
